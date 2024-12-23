@@ -1,0 +1,6 @@
+@DesafioKognit_HostAddress = http://localhost:5030
+
+GET {{DesafioKognit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
